@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Here is KoukiNAGATA's user page.
+- 🔭 I’m a computer science student at Kyoto University.
+- 🌱 I’m currently learning Machine Learning, Web frontend and so on.
+
+
 <!--
 **KoukiNAGATA/KoukiNAGATA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
