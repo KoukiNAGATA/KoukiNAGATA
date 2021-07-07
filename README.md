@@ -1,6 +1,6 @@
 ## KoukiNAGATA's userpage
 - 🔭 I’m a computer science student at Kyoto University.
-- 🌱 I’m currently learning Machine Learning, Web frontend and so on.
+- 🌱 I’m currently learning Machine Learning, Web frontend, etc.
 
 ### Skills
 
