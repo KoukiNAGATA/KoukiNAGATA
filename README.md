@@ -1,7 +1,4 @@
 ## KoukiNAGATA's userpage
-- 🔭 I’m a computer science student at Kyoto University.
-- 🌱 I’m currently learning Machine Learning, Web frontend, etc.
-
 ### Skills
 
 [![](https://img.shields.io/badge/-Python-3572A5?style=flat&logo=python)](https://github.com/KoukiNAGATA)
